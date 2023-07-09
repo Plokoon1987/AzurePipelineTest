@@ -1,1 +1,4 @@
-print("Hello World")
+def printy():
+    return 'Hello World'
+
+string = printy()
